@@ -1,0 +1,139 @@
+{
+	"nav": {
+		"about": "on the",
+		"faq": "frequently asked questions ",
+		"credits": "fault",
+		"progress": "growth"
+	},
+	"hero": {
+		"subtitle": "Sports service providers",
+		"title": "Restore",
+		"text": "Pretendo is designed as a fast and open source solution for 3DS and Wii U servers for Nintendo servers, providing integration and integration in both, even if a real server is available.",
+		"buttons": {
+			"readMore": "Continue reading"
+		}
+	},
+	"aboutUs": {
+		"title": "circle",
+		"paragraphs": [
+			"Proteondo is an open room project that aims to reshape the Nintendo network for 3D and NI using clean nighttime retrograde tech.",
+			"Since our services are shared and open source, Nintendo's flagship network will take effect once it is shut down."
+		]
+	},
+	"progress": {
+		"title": "Progress",
+		"paragraphs": [
+			"We are currently working on integrating MyVerus with account servers and services. ",
+			"In 3DS we are working on Mario Kart 7 and hope to move on to other games if possible."
+		]
+	},
+	"faq": {
+		"title": "Frequently Asked Questions",
+		"text": "Here are some common questions to help you understand.",
+		"QAs": [
+			{
+				"question": "What Pretendo?",
+				"answer": "Pretendo is a network of Nintendo networks (whose favorites are the Wii U and 3DS) that aim to create custom Wii U series servers and 3D consoles. "
+			},
+			{
+				"question": "Can my previous NNID be used with Pretendo? ",
+				"answer": "We want to make sure we don't have any unforeseen circumstances. Nintendo user will not be available for data talk without unanimous detection of NNID. While the NNID is not a PNID converter, it can also be compromised, compromised, and not possible at all. "
+			},
+			{
+				"question": "How to use Predentone? ",
+				"answer": "Peace is not open to ordinary people. But once he was approved, he would rather go home from getting off work. "
+			},
+			{
+				"question": "Did you know <task / service> is ready? ",
+				"answer": "Goodbye Most Pretendo/service features are added separately (for example, the designer can change the differences, while other things can change the account and friends). Therefore, we usually do not provide ETA when needed. "
+			},
+			{
+				"question": "Can Protento run on Cemu / emulator? ",
+				"answer": "Specially designed for Pretendo, Wii U and 3DS devices. Currently, Semu is the only emulator for NM powered consoles. Semu does not have an official license, but can be used with Pretendo Semu. Protendo does not currently support Semu."
+			},
+			{
+				"question": "If I don't have the right to use Nintendo Network, will bidding be restricted? ",
+				"answer": "We do not have the right to access the Nintendo Network to restrict or prohibit anyone from using our services. However, when we use the service, we must follow certain rules, otherwise we will be restricted. "
+			},
+			{
+				"question": "Does Pretendo support the Wii / switch?",
+				"answer": "Vii already offers a standard server <a href = \"https://wiimmfi.de/\" target = \"_blank\"> Viimmfi </a>. At the moment, we do not want to separate the switch because it is paid and completely different from the Nintendo network. "
+			},
+			{
+				"question": "Do I like hacking relationships?",
+				"answer": "Of course, you have to bet on the device to connect; However, you need to get a Homebrew build on the Wii U (for example, Haxchi, Coldboot Haxchi, or a used browser) and learn more about connecting to the 3DS in the future. "
+			}
+		]
+	},
+	"credits": {
+		"title": "team",
+		"text": "Group meeting after the end of the project",
+		"people": [
+			{
+				"name": "Jonathan Barrow (RedDucks)",
+				"caption": "Chief architect and designer ",
+				"picture": "https://github.com/redduckss.png",
+				"github": "https://github.com/RedDuckss"
+			},
+			{
+				"name": "Jemma (CaramelKat)",
+				"caption": "Multi-faceted research and development ",
+				"picture": "https://github.com/caramelkat.png",
+				"github": "https://github.com/CaramelKat"
+			},
+			{
+				"name": "superwhiskers",
+				"caption": "Tighten library development",
+				"picture": "https://github.com/superwhiskers.png",
+				"github": "https://github.com/superwhiskers"
+			},
+			{
+				"name": "SuperMarioDaBom",
+				"caption": "Search Console and other systems",
+				"picture": "https://github.com/supermariodabom.png",
+				"github": "https://github.com/SuperMarioDaBom"
+			},
+			{
+				"name": "Rambo6Glaz",
+				"caption": "Network installer and console operation ",
+				"picture": "https://github.com/Rambo6Glaz.png",
+				"github": "https://github.com/NexoDevelopment"
+			},
+			{
+				"name": "mrjvs",
+				"caption": "Website development and old store analysis",
+				"picture": "https://github.com/mrjvs.png",
+				"github": "https://github.com/mrjvs"
+			},
+			{
+				"name": "Benjamin Moss (kxpler442b)",
+				"caption": "Web development",
+				"picture": "https://github.com/kxpler442b.png",
+				"github": "https://github.com/kxpler442b"
+			},
+			{
+				"name": "Jip Fr",
+				"caption": "Web development",
+				"picture": "https://github.com/jipfr.png",
+				"github": "https://github.com/jipfr"
+			},
+			{
+				"name": "Shutterbug2000",
+				"caption": "Search for Mario Kart 7 և 3DS ",
+				"picture": "https://cdn.discordapp.com/avatars/191370953807233024/0311b61e2009c1576828dd2e9a59d72e.png?size=128",
+				"github": "https://github.com/shutterbug2000"
+			},
+			{
+				"name": "Kinnay",
+				"special": "I'm very much obliged to you",
+				"caption": "Nintendo data structure",
+				"picture": "https://cdn.discordapp.com/avatars/186572995848830987/b55c0d4e7bfd792edf0689f83a25d8ea.png?size=128",
+				"github": "https://github.com/Kinnay"
+			}
+		]
+	},
+	"progressPage": {
+		"title": "We have progressed",
+		"description": "Familiar with the project process and goals! (Updated every hour, not all topics or progress goals are displayed) "
+	}
+}

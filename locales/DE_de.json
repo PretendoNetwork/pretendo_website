@@ -1,0 +1,139 @@
+{
+	"nav": {
+		"about": "Über",
+		"faq": "FAQ",
+		"credits": "Credits",
+		"progress": "Fortschritt"
+	},
+	"hero": {
+		"subtitle": "Spiel-Server",
+		"title": "Neu Definiert",
+		"text": "Pretendo ist ein kostenloser, open source Ersatz für Nintendo's Server für den 3DS and die Wii U, der die Onlineverbindung für alle, auch nach dem dem offiziellen Ende, ermöglicht.",
+		"buttons": {
+			"readMore": "Mehr lesen"
+		}
+	},
+	"aboutUs": {
+		"title": "Über Uns",
+		"paragraphs": [
+			"Pretendo ist ein open-source Project, dass das Nintendo Network für den 3DS und die Wii U durch clean-room reverse engineering neu erstellt.",
+			"Da unsere Dienste kostenlos und Open Source sind, können sie auch nach der offiziellen Schließung des Nintendo Network weiterexistieren."
+		]
+	},
+	"progress": {
+		"title": "Fortschritt",
+		"paragraphs": [
+			"Aktuell arbeiten wir am Miiverse und unseren Account-Servern und deren Integration mit den Diensten.",
+			"Für den 3DS arbeiten wir nebenbei auch an Mario Kart 7, mit dem Wunsch, nach Möglichkeit auch an anderen Spielen zu Arbeiten."
+		]
+	},
+	"faq": {
+		"title": "Frequently Asked Questions (Häufig gestellte Fragen)",
+		"text": "Hier sind einige Fragen, die wir oft gestellt bekommen, zur schnellen Informationsbeschaffung.",
+		"QAs": [
+			{
+				"question": "Was ist Pretendo?",
+				"answer": "Pretendo ist ein Open Source Nintendo Network Ersatz, mit dem eigene Server für die Konsolenfamilien Wii U und 3DS erstellt werden sollen. Unser Ziel ist es, die Online-Funktionalität der Konsolen zu erhalten, damit Spieler auch weiterhin ihre Lieblingsspiele für die Wii U und den 3DS vollständig Spielen können."
+			},
+			{
+				"question": "Werden meine vorhandenen NNIDs mit Pretendo funktionieren?",
+				"answer": "Leider nicht. Vorhandene NNIDs werden nicht mit Pretendo funktionieren, da nur Nintendo deine Nutzerdaten hat. Auch wenn eine NNID-zu-PNID Migration theoretisch möglich ist, wäre es riskant und würde Sensitive Nutzerdaten erfordern, die wir nicht Speichern möchten."
+			},
+			{
+				"question": "Wie benutze ich Pretendo?",
+				"answer": "Pretendo ist aktuell nicht bereit für die Öffentliche Nutzung. Allerdings, sobald Pretendo bereit ist, kannst du es einfach durch unseren homebrew patcher auf deiner Konsole nutzen."
+			},
+			{
+				"question": "Weißt du, wann <Funktion/Dienst> bereit ist?",
+				"answer": "Nein. Viele von Pretendo's Funktionen und Diensten werden unabhängig voneinander entwickelt (zum Beispiel, ein Entwickler arbeitet am Miiverse während ein anderer an Accounts und der Freundesliste arbeitet) und deshalb können wir keine Zeit nennen, wie lange es noch dauern wird."
+			},
+			{
+				"question": "Funktioniert Pretendo mit Cemu oder Emulatoren?",
+				"answer": "Pretendo wird hautpsächlich für die Hardware der Wii U und des 3DS entwickelt. Zu diesem Zeitpunkt ist CEMU der einzige emulator für diese Konsolen mit NN support. Cemu selbst unterstützt keine eigenen Server, aber es soll trotzdem möglich sein Pretendo mit Cemu zu verwenden.<br>Cemu wird aktuell von Pretendo nicht unterstützt."
+			},
+			{
+				"question": "Wenn ich im Nintendo Network gebannt wurde, bleibe ich in Pretendo auch gebannt?",
+				"answer": "Wir werden keinen Zugriff auf Nintendo's bans haben, weshalt kein Nutzer auf unserem Netzwerk gebannt sein wird. Trotzdem, wir haben Regeln für die Nutzung unserer Dienste und das Nichteinhalten kann in einem Ban resultieren."
+			},
+			{
+				"question": "Wird Pretendo die Wii/Switch unterstützen?",
+				"answer": "Für die Wii gibt es bereits eigene Server von <a href=\"https://wiimmfi.de/\" target=\"_blank\">Wiimmfi</a>. Aktuell möchten wir die Switch auch nicht als Ziel festlegen, da der Online-Service der Switch Kostenpflichtig und  it is both paid and completely different to Nintendo Network."
+			},
+			{
+				"question": "Benötige ich einen Hack zum verbinden?",
+				"answer": "Ja, du musst deine Konsole hacken, allerdings reicht auf der Wii U der Zugriff zum Homebrew Launcher (z.B. über Haxchi, Coldboot Haxchi, oder den Browser-Exploit). Informationen, wie der 3DS verbunden wird, wird später noch veröffentlicht."
+			}
+		]
+	},
+	"credits": {
+		"title": "Das Team",
+		"text": "Triff das Team, das hinter dem Projekt steckt",
+		"people": [
+			{
+				"name": "Jonathan Barrow (RedDucks)",
+				"caption": "Projektinhaber und leitender Entwickler",
+				"picture": "https://github.com/redduckss.png",
+				"github": "https://github.com/RedDuckss"
+			},
+			{
+				"name": "Jemma (CaramelKat)",
+				"caption": "Miiverse Forschung und Entwicklung",
+				"picture": "https://github.com/caramelkat.png",
+				"github": "https://github.com/CaramelKat"
+			},
+			{
+				"name": "superwhiskers",
+				"caption": "Entwicklung der crunch Bibliothek",
+				"picture": "https://github.com/superwhiskers.png",
+				"github": "https://github.com/superwhiskers"
+			},
+			{
+				"name": "SuperMarioDaBom",
+				"caption": "Forschung auf Konsole und anderen Systemen",
+				"picture": "https://github.com/supermariodabom.png",
+				"github": "https://github.com/SuperMarioDaBom"
+			},
+			{
+				"name": "Rambo6Glaz",
+				"caption": "Network Installer und Konsolenforschung",
+				"picture": "https://github.com/Rambo6Glaz.png",
+				"github": "https://github.com/NexoDevelopment"
+			},
+			{
+				"name": "mrjvs",
+				"caption": "Web Entwicklung und frühe eShop Erforschung",
+				"picture": "https://github.com/mrjvs.png",
+				"github": "https://github.com/mrjvs"
+			},
+			{
+				"name": "Benjamin Moss (kxpler442b)",
+				"caption": "Web Entwicklung",
+				"picture": "https://github.com/kxpler442b.png",
+				"github": "https://github.com/kxpler442b"
+			},
+			{
+				"name": "Jip Fr",
+				"caption": "Web Entwicklung",
+				"picture": "https://github.com/jipfr.png",
+				"github": "https://github.com/jipfr"
+			},
+			{
+				"name": "Shutterbug2000",
+				"caption": "Mario Kart 7 und 3DS Forschung",
+				"picture": "https://cdn.discordapp.com/avatars/191370953807233024/0311b61e2009c1576828dd2e9a59d72e.png?size=128",
+				"github": "https://github.com/shutterbug2000"
+			},
+			{
+				"name": "Kinnay",
+				"special": "Besonderer Dank",
+				"caption": "Forschung an Nintendo Datenstrukturen",
+				"picture": "https://cdn.discordapp.com/avatars/186572995848830987/b55c0d4e7bfd792edf0689f83a25d8ea.png?size=128",
+				"github": "https://github.com/Kinnay"
+			}
+		]
+	},
+	"progressPage": {
+		"title": "Unser Fortschritt",
+		"description": "Prüfe den Projektfortschritt und die Ziele! (Ungefähr jede Stunde aktualisiert, reflektiert nicht ALLE Projekte oder Ziele)"
+	}
+}
