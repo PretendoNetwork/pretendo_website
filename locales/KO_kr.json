@@ -1,0 +1,139 @@
+{
+	"nav": {
+		"about": "정보",
+		"faq": "자주 묻는 질문",
+		"credits": "크레딧",
+		"progress": "진행률"
+	},
+	"hero": {
+		"subtitle": "다시 만들어진",
+		"title": "게임 서버",
+		"text": "Pretendo는 원본 서버가 중단되더라도 모두가 연결하여 플레이 할 수 있는 3DS/Wii U의 닌텐도 네트워크 대체 서버입니다.",
+		"buttons": {
+			"readMore": "자세히 알아보기"
+		}
+	},
+	"aboutUs": {
+		"title": "저희에 관하여",
+		"paragraphs": [
+			"Pretendo는 3DS와 Wii U를 위한 대체 서버를 만드는 것을 목표로 하는 오픈소스 합법 리버스 엔지니어링 프로젝트입니다.",
+			"저희 프로젝트는 무료이면서 오픈소스이기 때문에 닌텐도 네트워크가 종료되고 긴 세월이 지나고도 운영될 수 있습니다."
+		]
+	},
+	"progress": {
+		"title": "진행률",
+		"paragraphs": [
+			"현재, 저희는 계정 서버와 여러 서비스 연동 포함한 Miiverse에 집중하고 있습니다.",
+			"3DS로는, 가능하면 다른 프로젝트도 시도하려 하나 마리오 카트 7에 집중하고 있습니다."
+		]
+	},
+	"faq": {
+		"title": "자주 묻는 질문",
+		"text": "여기는 자주 묻는 질문들이며 빠른 정보 제공을 위해 여기에 답했습니다.",
+		"QAs": [
+			{
+				"question": "Pretendo는 무엇인가요?",
+				"answer": "Pretendo는 오픈 소스 닌텐도 네트워크 대체제이며 Wii U와 3DS의 대체 서버를 만드려 합니다. 저희의 목표는 이 콘솔들의 온라인 기능을 유지시켜 플레이어가 좋아하는 Wii U와 3DS 게임에서 최고의 경험을 할 수 있게 하는 것입니다."
+			},
+			{
+				"question": "존재하는 NNID가 Pretendo에서도 작동할까요?",
+				"answer": "안타깝지만, 그렇지 않습니다. 닌텐도만이 개인정보를 소지하고 있기 때문에 Pretendo에서 NNID를 사용할 수 없습니다.  NNID에서 PNID로의 전환은 이론상 가능하지만, 위험할 것이며 저희가 원치 않는 중요한 개인정보를 수집할 겁니다."
+			},
+			{
+				"question": "Pretendo를 어떻게 사용하나요?",
+				"answer": "Pretendo는 아직 공용으로 사용할 수 없습니다. 그러나, 사용이 가능해지면 그저 콘솔에서 홈브루 패쳐를 작동시켜 사용할 수 있게 될 것입니다."
+			},
+			{
+				"question": "언제 <기능/서비스>를 사용할 수 있을지 알고 있나요?",
+				"answer": "아니요. 대부분의 Pretendo 기능/서비스는 독립적으로 개발되고 있기 때문에 (예를 들어, 한 개발자가 Miiverse를 작업하고 있을 때 계정과 친구는 다른 개발자가 동시에 작업하고 있습니다) 예상 시간을 말씀 드릴 수 없습니다."
+			},
+			{
+				"question": "Cemu/에뮬레이터에서 Pretendo를 사용할 수 있을까요?",
+				"answer": "Pretendo는 Wii U와 3DS 하드웨어만을 생각하고 만들었습니다. 현재까지 NN 지원이 되는 에뮬레이터는 Cemu 뿐인데, Cemu는 공식적으로 커스텀 서버를 지원하지 않습니다. 그러나 Cemu에서도 Pretendo를 이용할 수 있게 될 것입니다.<br>Pretendo는 아직 Cemu를 지원하지 않습니다."
+			},
+			{
+				"question": "제가 닌텐도 네트워크에서 영구 정지 되면 Pretendo Network에서도 영구 정지일까요?",
+				"answer": "저희는 닌텐도 네트워크의 영구 정지 리스트에 대한 권한이 없기 때문에, 저희 서비스를 사용할 때 정지가 되지는 않을 겁니다. 그러나, 저희는 저희만의 서비스 사용 시 적용되는 운영원칙이 있을 것이며 따르지 않는 것은 결국 영구 정지를 만들어낼 것입니다."
+			},
+			{
+				"question": "Pretendo는 Wii/스위치를 지원할까요?",
+				"answer": "Wii의 서비스는 이미 <a href=\"https://wiimmfi.de/\" target=\"_blank\">Wiimmfi</a>가 제공하고 있습니다. 저희는 아직 스위치를 지원할 계획이 없는데, 유료이며 닌텐도 네트워크와 전혀 다르기 때문입니다."
+			},
+			{
+				"question": "연결하기 위해 해킹이 필요할까요?",
+				"answer": "네, 연결하기 위해 기기 해킹이 필요할 것입니다. 그러나, Wii U에서는 홈브루 런처의 접근 권한만 있으면 됩니다 (예. Haxchi, Coldboot Haxchi, 심지어 웹 브라우저 취약점까지). 3DS의 연결 방법은 추후에 공개될 겁니다."
+			}
+		]
+	},
+	"credits": {
+		"title": "만든 사람들",
+		"text": "프로젝트 뒤에서 일하는 사람들을 만나보세요",
+		"people": [
+			{
+				"name": "Jonathan Barrow (jonbarrow)",
+				"caption": "프로젝트 소유자 및 주도 개발자",
+				"picture": "https://github.com/jonbarrow.png",
+				"github": "https://github.com/jonbarrow"
+			},
+			{
+				"name": "Jemma (CaramelKat)",
+				"caption": "Miiverse 연구 및 개발",
+				"picture": "https://github.com/caramelkat.png",
+				"github": "https://github.com/CaramelKat"
+			},
+			{
+				"name": "superwhiskers",
+				"caption": "crunch 라이브러리 개발",
+				"picture": "https://github.com/superwhiskers.png",
+				"github": "https://github.com/superwhiskers"
+			},
+			{
+				"name": "SuperMarioDaBom",
+				"caption": "콘솔 및 다른 시스템 연구",
+				"picture": "https://github.com/supermariodabom.png",
+				"github": "https://github.com/SuperMarioDaBom"
+			},
+			{
+				"name": "Rambo6Glaz",
+				"caption": "네트워크 설치 도구 개발 및 콘솔 연구",
+				"picture": "https://github.com/Rambo6Glaz.png",
+				"github": "https://github.com/Rambo6Glaz"
+			},
+			{
+				"name": "mrjvs",
+				"caption": "웹 개발 및 초기 e숍 연구",
+				"picture": "https://github.com/mrjvs.png",
+				"github": "https://github.com/mrjvs"
+			},
+			{
+				"name": "Benjamin Moss (kxpler442b)",
+				"caption": "웹 개발",
+				"picture": "https://github.com/kxpler442b.png",
+				"github": "https://github.com/kxpler442b"
+			},
+			{
+				"name": "Jip Fr",
+				"caption": "웹 개발",
+				"picture": "https://github.com/jipfr.png",
+				"github": "https://github.com/jipfr"
+			},
+			{
+				"name": "Shutterbug2000",
+				"caption": "마리오 카트 7 및 3DS 연구",
+				"picture": "https://cdn.discordapp.com/avatars/191370953807233024/0311b61e2009c1576828dd2e9a59d72e.png?size=128",
+				"github": "https://github.com/shutterbug2000"
+			},
+			{
+				"name": "Kinnay",
+				"special": "특별한 감사",
+				"caption": "닌텐도 데이터 구조 연구",
+				"picture": "https://cdn.discordapp.com/avatars/186572995848830987/b55c0d4e7bfd792edf0689f83a25d8ea.png?size=128",
+				"github": "https://github.com/Kinnay"
+			}
+		]
+	},
+	"progressPage": {
+		"title": "우리의 진행률",
+		"description": "프로젝트 진행률 및 목표를 확인하세요! (매시간에 갱신, 모든 목표나 진행률은 공개되지 않습니다)"
+	}
+}
